@@ -1,8 +1,8 @@
-Instruções de uso
+# Instruções de uso
 
 instalar node.js: https://nodejs.org/en/
 
--No terminal, na pasta do projeto:
+- No terminal, na pasta do projeto:
 execute o comando: node index.js
--Para iniciar teste unitário:
+- Para iniciar teste unitário:
 execute o comando: npm test 
